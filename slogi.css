@@ -26,6 +26,7 @@
 	font-family: myriad pro;
 	align-items: center;
 	flex-direction: column;
+	font-weight: bold;
 }
 .Tabela {
 	border: 1px solid black;
