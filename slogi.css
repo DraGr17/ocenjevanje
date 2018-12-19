@@ -1,0 +1,38 @@
+#Glavni {
+	display: flex;
+	padding: 0 auto 0;
+}
+#Desni {
+	width: 800px;
+	min-height: 300px;
+	background-color: rgb(180, 180, 180);
+	font-family: myriad pro;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+#Levi {
+	width: 200px;
+	min-height: 300px;
+	background-color: #1E90FF;
+}
+#Spodnji {
+	display: flex;
+	height: 100px;
+	width: 1000px;
+	background-color: red;
+	font-size: 35px;
+	color: white;
+	font-family: myriad pro;
+	align-items: center;
+	flex-direction: column;
+}
+.Tabela {
+	border: 1px solid black;
+	background-color: white;
+	width: 400px;
+	border-collapse: collapse;
+}
+.Tabela th, td {
+	border: 1px solid black;
+}
